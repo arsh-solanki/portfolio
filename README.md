@@ -1,5 +1,23 @@
 # Getting Started with Create React App
 
+# My Portfolio - Arsh Solanki
+
+This is my personal portfolio website built using React and custom CSS.
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+## Live Demo
+[Coming Soon]
+
+## Contact
+- Email: arshsolanki2001@gmail.com
+- GitHub: https://github.com/arsh-solanki
+- LinkedIn: https://linkedin.com/in/arsh-solanki-52b1a1202
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
